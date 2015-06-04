@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+
+.panel {
+    margin-top: 30px
+}
+
+#map-canvas {
+    height: 430px;
+    width: 665px;
+    margin-top: 0 auto;
+}
+
+#alert {
+    float: right;
+    margin-left: 30px;
+    height: 35px;
+    line-height: 3.5px;
+    display: none;
+}
+
+#map-panel {
+    height: 500px;
+    width: 700px;
+    margin-left: 10px;
+    float: left;
+}
+#piechart {
+    height: 430px;
+    width: 400px;
+    margin: 0 auto;
+}
+#chart-panel {
+    height: 500px;
+    width: 430px;
+    clear: both;
+    float: left;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    margin-top: 60px;
+}
